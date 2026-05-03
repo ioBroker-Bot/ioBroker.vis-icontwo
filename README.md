@@ -71,6 +71,8 @@ A complete overview of all icons can be found here (the folder structure is the 
 ### 2.10.0 (2026-02-26)
 - (skvarel) Added: New 3D-Icons (beach)
 
+[Older changelogs can be found there](CHANGELOG_OLD.md)
+
 ## Older changes
 - [CHANGELOG_OLD.md](CHANGELOG_OLD.md)
 
